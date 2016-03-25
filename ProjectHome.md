@@ -1,0 +1,1 @@
+## Project moved to <a href='https://github.com/minhazul-haque/wimaxcmgui/'>github.com/minhazul-haque/wimaxcmgui</a> ##
